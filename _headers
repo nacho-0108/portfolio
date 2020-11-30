@@ -1,0 +1,80 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---node-modules-gatsby-plugin-offline-app-shell-js-1019110dddd354e6e07c.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.b7f6217090d78250e369.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-7d4153d260c0197f0043.js
+  Cache-Control: public, max-age=31536000, immutable
+/05d954cf-18582791c9be0dd2a0d3.js
+  Cache-Control: public, max-age=31536000, immutable
+/ed1a4e20376484a7c9ab9310b06e3fb2253ed220-285c2065e90e4e72a015.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-404-js-86a88f1c061adf839e3e.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-imprint-js-ea77d5f4c745eb30b6db.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-index-js-25f2d15cc96db3d22e30.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-privacy-js-327a0c7371b4dfe6c95d.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-60bd8228ac74485a123c.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-b123e5bed04722485b93.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-c6689c5690e81a3e251e.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/portfolio/offline-plugin-app-shell-fallback/
+  Link: </portfolio/webpack-runtime-60bd8228ac74485a123c.js>; rel=preload; as=script
+  Link: </portfolio/framework-b123e5bed04722485b93.js>; rel=preload; as=script
+  Link: </portfolio/app-c6689c5690e81a3e251e.js>; rel=preload; as=script
+  Link: </portfolio/component---node-modules-gatsby-plugin-offline-app-shell-js-1019110dddd354e6e07c.js>; rel=preload; as=script
+/portfolio/404/
+  Link: </portfolio/webpack-runtime-60bd8228ac74485a123c.js>; rel=preload; as=script
+  Link: </portfolio/framework-b123e5bed04722485b93.js>; rel=preload; as=script
+  Link: </portfolio/app-c6689c5690e81a3e251e.js>; rel=preload; as=script
+  Link: </portfolio/styles-7d4153d260c0197f0043.js>; rel=preload; as=script
+  Link: </portfolio/05d954cf-18582791c9be0dd2a0d3.js>; rel=preload; as=script
+  Link: </portfolio/ed1a4e20376484a7c9ab9310b06e3fb2253ed220-285c2065e90e4e72a015.js>; rel=preload; as=script
+  Link: </portfolio/component---src-pages-404-js-86a88f1c061adf839e3e.js>; rel=preload; as=script
+/portfolio/imprint/
+  Link: </portfolio/webpack-runtime-60bd8228ac74485a123c.js>; rel=preload; as=script
+  Link: </portfolio/framework-b123e5bed04722485b93.js>; rel=preload; as=script
+  Link: </portfolio/app-c6689c5690e81a3e251e.js>; rel=preload; as=script
+  Link: </portfolio/styles-7d4153d260c0197f0043.js>; rel=preload; as=script
+  Link: </portfolio/05d954cf-18582791c9be0dd2a0d3.js>; rel=preload; as=script
+  Link: </portfolio/ed1a4e20376484a7c9ab9310b06e3fb2253ed220-285c2065e90e4e72a015.js>; rel=preload; as=script
+  Link: </portfolio/component---src-pages-imprint-js-ea77d5f4c745eb30b6db.js>; rel=preload; as=script
+/portfolio/
+  Link: </portfolio/webpack-runtime-60bd8228ac74485a123c.js>; rel=preload; as=script
+  Link: </portfolio/framework-b123e5bed04722485b93.js>; rel=preload; as=script
+  Link: </portfolio/app-c6689c5690e81a3e251e.js>; rel=preload; as=script
+  Link: </portfolio/styles-7d4153d260c0197f0043.js>; rel=preload; as=script
+  Link: </portfolio/05d954cf-18582791c9be0dd2a0d3.js>; rel=preload; as=script
+  Link: </portfolio/ed1a4e20376484a7c9ab9310b06e3fb2253ed220-285c2065e90e4e72a015.js>; rel=preload; as=script
+  Link: </portfolio/component---src-pages-index-js-25f2d15cc96db3d22e30.js>; rel=preload; as=script
+/portfolio/privacy/
+  Link: </portfolio/webpack-runtime-60bd8228ac74485a123c.js>; rel=preload; as=script
+  Link: </portfolio/framework-b123e5bed04722485b93.js>; rel=preload; as=script
+  Link: </portfolio/app-c6689c5690e81a3e251e.js>; rel=preload; as=script
+  Link: </portfolio/styles-7d4153d260c0197f0043.js>; rel=preload; as=script
+  Link: </portfolio/05d954cf-18582791c9be0dd2a0d3.js>; rel=preload; as=script
+  Link: </portfolio/ed1a4e20376484a7c9ab9310b06e3fb2253ed220-285c2065e90e4e72a015.js>; rel=preload; as=script
+  Link: </portfolio/component---src-pages-privacy-js-327a0c7371b4dfe6c95d.js>; rel=preload; as=script
+/portfolio/404.html
+  Link: </portfolio/webpack-runtime-60bd8228ac74485a123c.js>; rel=preload; as=script
+  Link: </portfolio/framework-b123e5bed04722485b93.js>; rel=preload; as=script
+  Link: </portfolio/app-c6689c5690e81a3e251e.js>; rel=preload; as=script
+  Link: </portfolio/styles-7d4153d260c0197f0043.js>; rel=preload; as=script
+  Link: </portfolio/05d954cf-18582791c9be0dd2a0d3.js>; rel=preload; as=script
+  Link: </portfolio/ed1a4e20376484a7c9ab9310b06e3fb2253ed220-285c2065e90e4e72a015.js>; rel=preload; as=script
+  Link: </portfolio/component---src-pages-404-js-86a88f1c061adf839e3e.js>; rel=preload; as=script
